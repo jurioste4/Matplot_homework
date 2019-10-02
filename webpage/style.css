@@ -110,9 +110,21 @@ nav a:hover
 
 #graph {
     /* margin-bottom: -30%; */
-    margin-top: 5%
+    margin-top: 5%;
     
 }
 .frame {
-    margin-top: 10%
+    margin-top: 10%;
+}
+
+.iframe2 {
+ margin-top: 15%;
+ 
+}
+.frame2 {
+    margin-right: 10%;
+ margin-left: 10%;
+}
+#pie2 {
+    /* margin-top: 25%; */
 }
