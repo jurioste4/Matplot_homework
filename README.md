@@ -1,6 +1,7 @@
+This ride sharing analysis was done with data used from both Lyft and Uber the data is from 2018 and has rides with city active driver and historic rides with city and driver count with individual fares and city type
 
 
-# I was talked with  build a Bubble Plot that showcases the relationship between four key variables:
+# I was Tasked  with  build a Bubble Plot that showcases the relationship between four key variables:
 Average Fare ($) Per City
 
 Total Number of Rides Per City
